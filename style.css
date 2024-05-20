@@ -1,0 +1,22 @@
+@font-face {
+    font-family: butterfly;
+    src: url(./ButterflyKids-Regular.ttf.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+} 
+
+.website{
+    height: 100vh;
+    width: 100vw;
+}
